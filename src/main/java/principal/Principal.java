@@ -1,12 +1,11 @@
-package app;
+package principal;
 
 import java.util.List;
 
-import dao.DAO;
 import dao.ProdutoDAO;
 import model.Produto;
 
-public class Aplicacao {
+public class Principal {
 	
 	public static void main(String[] args) throws Exception {
 		
